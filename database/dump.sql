@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS people (
+  id int(11) PRIMARY KEY NOT NULL AUTO_INCREMENT, 
+  name varchar(255)
+);
