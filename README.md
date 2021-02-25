@@ -3,6 +3,7 @@
 Comando para rodar aplicação:
 
 ```
+cd docker-desafio02-fullcycle
 docker-compose up -d
 ```
 
